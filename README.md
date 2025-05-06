@@ -6,7 +6,7 @@ Feature importance is 0.
 The model accuracy is 0.67 and there is no node judgement related to these four questions.  
 Removing them reduces cognitive load for users without sacrificing model performance.  
 ![Decision Tree](decision_tree.png)
-![FI](feature_importance.png)
+![FI](feature_importances.png)
 
 
 
